@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Active States](./design/active-and-hover-states.jpg)
-![Active state2](./design/active-and-hover-states2.jpg)
+![Active States](https://github.com/jcasare/FrontEndChallenges-interactive-rating-component/blob/main/design/active%20and%20hover%20states.jpg?raw=true)
+![Active state2](https://github.com/jcasare/FrontEndChallenges-interactive-rating-component/blob/main/design/active%20and%20hover%20states2.jpg?raw=true)
 ![Desktop design](./design/desktop-design.jpg)
 ![Desktop Thank You Page](./design/desktop-thank-you-state.jpg)
 ![Mobile Design](./design/mobile-design.jpg)
