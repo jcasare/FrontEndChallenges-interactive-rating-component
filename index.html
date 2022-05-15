@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Overpass:wght@400;700&display=swap" rel="stylesheet">
+
+
+  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+  <link rel="stylesheet" href="css/styles.css">
+  <title>Frontend Mentor | Interactive rating component</title>
+
+</head>
+<body>
+<main>
+  <div class="first-wrapper">
+    <div class="icon-component">
+      <img src="images/icon-star.svg" alt="star-icon">
+    </div>
+    <div class="text-component">
+      <h2>How did we do?</h1>
+      <p>Please let us know how we did with your support request. All feedback is appreciated
+      to help us improve our offering!
+      </p>
+    </div>
+    <div class="ratings-component">
+      <div class="rating-section">
+      <button class="rating-btn" type="button" name="rate-button">1</button>
+      <button class="rating-btn" type="button" name="rate-button">2</button>
+      <button class="rating-btn" type="button" name="rate-button">3</button>
+      <button class="rating-btn" type="button" name="rate-button">4</button>
+      <button class="rating-btn" type="button" name="rate-button">5</button>
+      </div>
+      <div class="submit-btn-container">
+        <button class="submit-btn"type="button" name="Submit-button">SUBMIT</button>
+
+      </div>
+      </div>
+
+  </div>
+
+  <!-- Rating state end -->
+
+  <!-- Thank you state start -->
+<div class="thanks-card hide">
+  <div class="card-wrapper">
+    <div class="icon2-component">
+      <img src="images/illustration-thank-you.svg" alt="thank-you-image">
+    </div>
+    <div class="selected-msg">
+        <p>You selected <span>0</span> out of 5 </p>
+    </div>
+    <div class="text-component2">
+    <h2>Thank You!</h2>
+    <p class="feedback-info">We appreciate you taking the time to give a rating. If you ever need more support,
+  don’t hesitate to get in touch!</p>
+    </div>
+  </div>
+
+</div>
+
+   <!-- Thank you state end -->
+
+
+  <div class="attribution">
+    Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>.
+    Coded by <a href="#">Jerry C. Asare</a>
+  </div>
+<script src="main.js" charset="utf-8"></script>
+</main>
+
+</body>
+</html>
