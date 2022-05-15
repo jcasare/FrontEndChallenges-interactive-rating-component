@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Active States](./design/active and hover states.jpg)
-![Active state2](./design/active and hover states2.jpg)
+![Active States](./design/active-and-hover-states.jpg)
+![Active state2](./design/active-and-hover-states2.jpg)
 ![Desktop design](./design/desktop-design.jpg)
 ![Desktop Thank You Page](./design/desktop-thank-you-state.jpg)
 ![Mobile Design](./design/mobile-design.jpg)
